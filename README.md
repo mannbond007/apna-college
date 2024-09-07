@@ -1,2 +1,3 @@
 # apna-college
-This is my first my repo 
+This is my first repo 
+Author - Vivek Kumar
